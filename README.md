@@ -1,3 +1,8 @@
+# Developers
+VINICIUS NASCIMENTO RA: 082160004
+ALLAN SUEDER RA: 0821600
+JOÃO 
+
 # SisMip
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
